@@ -36,10 +36,10 @@
                     required: 'Last name must be filled out.'
                 },
                 con_phone: {
-                    required: 'Phone must be filled out.'
+                    required: 'Phone number must be filled out.'
                 },
                 con_country: {
-                    required: 'Country must be filled out.'
+                    required: 'City & state must be filled out.'
                 },
                 con_message: {
                     required: 'Message must be filled out.'
